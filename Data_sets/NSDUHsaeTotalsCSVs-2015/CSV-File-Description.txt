@@ -1,0 +1,39 @@
+﻿CSV and Excel File Description
+
+Files with a comma separated value (*.csv) extension are in plain text. They contain characters stored in a flat, nonproprietary format and can be opened by most computer programs. Each *.csv file contains a set of tabular data, with each record delineated by a line break and each field within a record delineated by a comma. A field that contains commas as part of its content has the additional delineation of a quote mark character before and after the field's contents. When a quote mark character is part of a field's content, it is included as two consecutive ""quote mark"" characters.
+
+Computers with Microsoft Excel installed open *.csv files in Excel by default, with the fields automatically arranged appropriately in columns. Other database programs also open *.csv files with the fields appropriately arranged.
+
+This zip archive holds 15 CSV files (i.e., "NSDUHsaeTotals-Tab#-2015.csv"), reflecting the 15 "Table #" tabs in the Excel file, and they contain the table title, table notes, column headings, and data.
+
+List of Tables
+
+Table 1. Marijuana Use in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 2. Marijuana Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 3. First Use of Marijuana, by Age Group and State: Average Annual Numbers of Marijuana Initiates (Expressed as Numbers in Thousands of the At-Risk Population), Based on 2014 and 2015 NSDUHs
+
+Table 4. Cocaine Use in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 5. Heroin Use in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 6. Alcohol Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 7. Alcohol Use in the Past Month among Individuals Aged 12 to 20, by State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 8. Tobacco Product Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 9. Cigarette Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 10. Alcohol Use Disorder in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 11. Alcohol Dependence in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 12. Serious Mental Illness in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 13. Any Mental Illness in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 14. Had Serious Thoughts of Suicide in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs
+
+Table 15. Major Depressive Episode in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2014 and 2015 NSDUHs

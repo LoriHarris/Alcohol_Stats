@@ -1,0 +1,61 @@
+CSV File Description
+
+Files with a comma separated value (*.csv) extension are in plain text. They contain characters stored in a flat, nonproprietary format and can be opened by most computer programs. Each *.csv file contains a set of tabular data, with each record delineated by a line break and each field within a record delineated by a comma. A field that contains commas as part of its content has the additional delineation of a quote mark character before and after the field's contents. When a quote mark character is part of a field's content, it is included as two consecutive ""quote mark"" characters.
+
+Computers with Microsoft Excel installed open *.csv files in Excel by default, with the fields automatically arranged appropriately in columns. Many other database programs also open *.csv files with the fields appropriately arranged.
+
+This zip archive holds 26 CSV files (i.e., "NSDUHsaeCountTab#-2013"), reflecting the 26 "Table #" tabs in the Excel file, and they contain the table title, table notes, column headings, and data.
+
+List of Tables
+
+Table 1. Illicit Drug Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 2. Marijuana Use in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 3. Marijuana Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 4. Perceptions of Great Risk of Smoking Marijuana Once a Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 5. Average Annual Marijuana Initiates, by Age Group and State: Estimated Numbers (in Thousands), Based on 2012 and 2013 NSDUHs
+
+Table 6. Illicit Drug Use Other Than Marijuana in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 7. Cocaine Use in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 8. Nonmedical Use of Pain Relievers in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 9. Alcohol Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 10. Binge Alcohol Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 11. Perceptions of Great Risk of Having Five or More Drinks of an Alcoholic Beverage Once or Twice a Week, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 12. Alcohol Use and Binge Alcohol Use in the Past Month among Individuals Aged 12 to 20, by State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 13. Tobacco Product Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 14. Cigarette Use in the Past Month, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 15. Perceptions of Great Risk of Smoking One or More Packs of Cigarettes per Day, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 16. Alcohol Dependence or Abuse in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 17. Alcohol Dependence in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 18. Illicit Drug Dependence or Abuse in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 19. Illicit Drug Dependence in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 20. Dependence or Abuse of Illicit Drugs or Alcohol in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 21. Needing But Not Receiving Treatment for Illicit Drug Use in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 22. Needing But Not Receiving Treatment for Alcohol Use in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 23. Serious Mental Illness in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs 
+
+Table 24. Any Mental Illness in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 25. Had Serious Thoughts of Suicide in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs
+
+Table 26. Had at Least One Major Depressive Episode in the Past Year, by Age Group and State: Estimated Numbers (in Thousands), Annual Averages Based on 2012 and 2013 NSDUHs

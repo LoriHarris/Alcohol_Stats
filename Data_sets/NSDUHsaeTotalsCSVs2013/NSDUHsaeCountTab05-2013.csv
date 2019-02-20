@@ -1,0 +1,62 @@
+"Table 5. Average Annual Marijuana Initiates, by Age Group and State: Estimated Numbers (in Thousands), Based on 2012 and 2013 NSDUHs  ",,,,,,,,,,,,,,,,
+"NOTE: Average annual number of marijuana initiates = X1 ÷ 2, where X1 is the number of marijuana initiates in the past 24 months.",,,,,,,,,,,,,,,,
+"NOTE: The State and census region Bayesian confidence (credible) intervals presented above use a simultaneous solution for the First Use of Marijuana and Never Used Marijuana outcomes, which had age group-specific random effects that were allowed to be correlated across the two outcomes. The associated Markov Chain Monte Carlo chains were used to calculate the posterior variance. For the ""Total U.S."" row, design-based (direct) estimates and corresponding 95 percent confidence intervals are given.",,,,,,,,,,,,,,,,
+"NOTE: The column labeled ""Order"" can be used to sort the data to the original sort order.",,,,,,,,,,,,,,,,
+"Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health, 2012 and 2013.",,,,,,,,,,,,,,,,
+Order,State,"12 or Older Estimate","12 or Older 95% CI (Lower)","12 or Older 95% CI (Upper)","12-17 Estimate","12-17 95% CI (Lower)","12-17 95% CI (Upper)","18-25 Estimate","18-25 95% CI (Lower)","18-25 95% CI (Upper)","26 or Older Estimate","26 or Older 95% CI (Lower)","26 or Older 95% CI (Upper)","18 or Older Estimate","18 or Older 95% CI (Lower)","18 or Older 95% CI (Upper)"
+1,Total U.S.,"2,857","2,755","2,961","1,268","1,224","1,314","1,348","1,288","1,411",240,192,300,"1,588","1,502","1,679"
+2,Northeast,531,499,566,223,208,238,262,241,283,47,33,66,309,281,339
+3,Midwest,619,586,653,277,262,292,293,273,314,49,36,67,342,314,372
+4,South,999,943,"1,058",456,431,483,463,429,499,80,58,110,543,496,595
+5,West,707,662,756,313,290,336,330,301,363,64,45,92,395,356,437
+6,Alabama,39,34,45,18,15,22,18,15,23,3,1,5,21,17,26
+7,Alaska,7,6,8,3,2,3,3,2,4,1,0,1,4,3,5
+8,Arizona,58,49,68,28,23,34,24,19,31,5,3,10,30,24,38
+9,Arkansas,26,22,30,12,10,15,11,9,14,2,1,4,14,11,17
+10,California,389,354,428,164,146,184,193,169,220,32,19,54,225,197,259
+11,Colorado,49,42,58,24,19,29,20,16,26,5,3,9,26,20,32
+12,Connecticut,37,32,43,18,15,22,16,13,20,3,2,6,19,15,24
+13,Delaware,9,8,11,4,3,5,4,3,5,1,0,2,5,4,6
+14,District of Columbia,7,6,9,2,2,3,4,4,5,1,0,2,5,4,6
+15,Florida,163,147,180,75,67,84,73,64,84,15,9,24,88,76,102
+16,Georgia,85,73,100,41,33,50,39,31,49,6,3,12,45,36,55
+17,Hawaii,11,9,14,5,4,6,5,4,7,2,1,4,7,5,9
+18,Idaho,14,12,16,7,6,9,6,4,7,1,1,2,7,5,9
+19,Illinois,115,104,126,51,45,57,54,47,62,9,6,16,64,55,74
+20,Indiana,60,51,70,26,21,31,30,24,37,4,2,8,34,28,42
+21,Iowa,29,25,34,12,10,15,14,12,18,3,1,5,17,14,21
+22,Kansas,25,21,30,10,8,13,13,10,16,2,1,4,15,12,19
+23,Kentucky,35,30,41,15,12,18,17,13,21,3,1,5,20,16,25
+24,Louisiana,41,35,48,17,14,21,19,15,24,4,2,8,23,18,29
+25,Maine,12,10,14,5,4,6,6,5,7,1,1,2,7,6,9
+26,Maryland,58,50,67,27,22,32,26,21,32,5,3,9,31,25,38
+27,Massachusetts,72,62,84,27,22,33,40,32,49,5,3,10,45,37,55
+28,Michigan,102,93,112,48,43,53,48,42,54,7,4,11,54,47,62
+29,Minnesota,43,36,51,19,15,23,20,15,25,4,2,8,24,19,30
+30,Mississippi,23,20,28,11,8,13,11,9,14,2,1,4,13,10,16
+31,Missouri,58,50,67,26,22,31,27,22,33,5,3,9,32,26,39
+32,Montana,9,8,10,4,3,5,4,3,5,1,0,1,5,4,6
+33,Nebraska,16,13,18,8,6,9,7,6,9,1,1,2,8,7,10
+34,Nevada,24,20,28,11,9,14,10,8,13,2,1,5,13,10,16
+35,New Hampshire,15,13,17,6,5,8,8,6,9,1,1,2,9,7,11
+36,New Jersey,78,67,92,36,29,44,35,28,44,7,3,13,42,34,52
+37,New Mexico,18,16,22,10,8,12,7,5,8,2,1,3,8,6,11
+38,New York,182,164,202,74,65,83,88,76,101,20,12,34,108,93,126
+39,North Carolina,78,66,93,37,29,45,36,28,45,6,3,12,42,33,52
+40,North Dakota,6,5,7,2,2,3,4,3,5,1,0,1,4,3,5
+41,Ohio,106,97,117,48,43,53,51,45,58,8,5,13,59,51,67
+42,Oklahoma,30,25,35,14,11,17,13,10,17,3,1,5,16,13,20
+43,Oregon,36,31,42,16,13,19,16,13,20,4,2,7,20,16,25
+44,Pennsylvania,116,105,128,48,43,54,60,52,68,8,5,14,68,59,78
+45,Rhode Island,12,10,14,5,4,6,6,5,7,1,1,2,7,6,9
+46,South Carolina,42,36,49,21,17,25,19,15,23,3,1,6,21,17,27
+47,South Dakota,7,6,8,3,2,3,3,3,4,1,0,1,4,3,5
+48,Tennessee,52,44,60,24,20,30,23,19,29,4,2,8,28,22,34
+49,Texas,226,204,251,102,90,116,108,93,124,16,9,28,124,107,144
+50,Utah,23,19,28,10,8,13,11,8,14,2,1,4,13,10,16
+51,Vermont,6,5,7,3,2,3,3,2,4,0,0,1,4,3,4
+52,Virginia,70,60,82,30,25,37,34,27,43,6,3,11,40,32,50
+53,Washington,64,55,74,29,24,35,28,23,35,6,3,12,35,28,43
+54,West Virginia,15,12,17,7,6,8,6,5,8,1,1,3,8,6,10
+55,Wisconsin,53,45,62,25,21,31,23,18,28,5,2,9,27,22,34
+56,Wyoming,5,4,6,2,2,3,2,2,3,0,0,1,3,2,3
