@@ -11,7 +11,7 @@ We extracted data from publically available data sources including:
  - RWJ Foundation 2018 County Health Rankings (xls/csv)
  - FiveThirtyEight Drug Use by Age Dataset (xls/csv)
  - WHO Recorded alcohol per capita consumption (json)
- - 2016-2017 National Survey on Drug Use and Health (NSDUH) State Prevalence Estimates (xls/csv)
+ - 2016-2017 National Survey on Drug Use and Health (NSDUH) State Prevalence Estimates (csv)
  - International Alliance fo Responsible Drinking (scrape table legal limits)
 
 ##### **Extraction**
@@ -20,7 +20,7 @@ Data in .xls files were converted to .csv files, manually and with by employing 
 
 ##### **Transform**
 
-Once the DataFrames were created, the data needed to then be transformed before loading into a database. Cleaning the data included dropping columns and renaming column headers (for example, eliminating spaces so columns could be easily referenced). Duplicates were dropped as needed to prevent conflicts. Some data was merged to create new tables with desired database variables. Indices were assigned in tables for referencing and primary keys were set for creating joins between database tables.
+Once the DataFrames were created, the data needed to then be transformed before loading into a database. Cleaning the data included dropping columns and renaming column headers (for example, eliminating spaces so columns could be easily referenced). Duplicates were dropped as needed to prevent conflicts. Some data was merged to create new tables with desired database variables. Indices were assigned in tables for referencing and primary keys were set for creating joins between database tables. After, VBA was used to perform some simple calculations on dataframe objects. 
 
 ##### **Load**
 
