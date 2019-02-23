@@ -15,7 +15,7 @@ We extracted data from publically available data sources including:
  - International Alliance fo Responsible Drinking (scrape table legal limits)
 
 ##### **Extraction**
-Data in .xls files were converted to .csv files, manually and with by employing csv code. A table was scraped using BeautifulSoup. JSON data, along with scraped tables and .csv files were read into a pandas DataFrame.
+Data in .xls files were converted to .csv files, manually and by employing csv code. A table was scraped using BeautifulSoup. JSON data, along with scraped tables and .csv files were read into a pandas DataFrame.
 
 
 ##### **Transform**
